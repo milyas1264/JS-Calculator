@@ -75,7 +75,7 @@ No server or installation required.
 
 ## 📸 Screenshot (Optional)
 
-*Add a screenshot here if you upload one to GitHub.*
+![alt text](image-1.png)
 
 ---
 
