@@ -100,5 +100,5 @@ Frontend Developer | JavaScript Learner
 This project is open-source and free to use for learning and personal projects.
 
 ***********************************
-![alt text](image.png)
+
 
