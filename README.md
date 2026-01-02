@@ -75,7 +75,8 @@ No server or installation required.
 
 ## 📸 Screenshot (Optional)
 
-*Add a screenshot here if you upload one to GitHub.*
+<img width="414" height="583" alt="image" src="https://github.com/user-attachments/assets/ba665395-5281-469c-85cd-54c44f0c3c66" />
+
 
 ---
 
